@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Launch screen: the same blue as the Flutter splash, so it hands over without a flash. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:startColor="#42A5F5"
+                android:centerColor="#2196F3"
+                android:endColor="#1976D2" />
+        </shape>
+    </item>
+</layer-list>

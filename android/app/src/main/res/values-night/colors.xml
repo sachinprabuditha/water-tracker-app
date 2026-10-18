@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Deep navy, matches Palette.dark in lib/theme/app_theme.dart -->
+    <color name="h2go_background">#081627</color>
+    <!-- Splash blue (AppColors.blue); the splash is blue in dark mode too -->
+    <color name="h2go_splash">#2196F3</color>
+</resources>
